@@ -1,4 +1,4 @@
-# JUMP2DIGITAL
+# JUMP2DIGITAL :v:
 # 1. Introducció: Presentació del conjunt de dades i de les variables seleccionades.
 S'han escollit dos conjunts de dades. El primer inclou informació sobre el lloguer mitjà mensual, tant per superfície com per metre quadrat, en diferents districtes ("Nom_Districte") i barris ("Nom_Barri") durant l'any 2017, detallat per trimestres ("Trimestre"). El segon conjunt de dades conté informació sobre els diferents nivells de soroll ocasionats per diverses fonts en cada barri de Barcelona. Les columnes més rellevants són "Concepte", que especifica l'origen del soroll, i "Rang Soroll" i "Valor", que determinen la quantitat de soroll en un rang específic de decibels. Algunes de les fonts de soroll són el trànsit diürn i nocturn, els vianants, la indústria, els ferrocarrils de la Generalitat, entre d'altres.
 
